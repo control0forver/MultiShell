@@ -5,8 +5,8 @@
 #include <vector>
 #include <future>
 
-#include "utils.h"
-#include "fps.h"
+#include "utils.hpp"
+#include "fps.hpp"
 
 #define WM_UPDATE 1
 #define WM_KEY 10

@@ -5,10 +5,10 @@
 #include <chrono>
 #include <shared_mutex> // for sync
 
-#include "fps.h"
-#include "utils.h"
-#include "ncurses_custom.h"
-#include "defs.h"
+#include "fps.hpp"
+#include "utils.hpp"
+#include "ncurses_custom.hpp"
+#include "defs.hpp"
 
 #define UE_SCREENSIZE_UPDATE 10
 
